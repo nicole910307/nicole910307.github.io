@@ -33,3 +33,21 @@ p.lead{
 a {
 	color:#a29bbd;
 }
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th,td {
+	padding:8px;
+	text-align: left;
+	border-bottom: 1px solid #7563bd;
+	font-size: 1.1rem;
+}
+
+a:hover{
+	color:#7563bd;
+}
+
+
